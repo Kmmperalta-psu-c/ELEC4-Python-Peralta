@@ -4,7 +4,7 @@
 **Name:** Kristine Mae Peralta  
 **Section:** IV-BSIT C  
 **Course Code:** ELEC 4  
-**Course Title:** [Enter your official course title]
+**Course Title:** Python Programming
 
 ## Set 1 Activities
 
